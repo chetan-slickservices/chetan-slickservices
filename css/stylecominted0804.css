@@ -1,0 +1,84 @@
+/*.managementmain .video-box.mainviedoimg {background: url("../img/slick/videoimg.png") center center no-repeat;   background-size: cover;min-height: 577px;width: 100%; border-radius: 1rem;border: solid 1px #e683c3;}*/
+
+
+/*.hex {
+  margin-top: 30px;
+  width: 104px;
+  height: 60px;
+  background-color: #27aae1;
+  border-color: #27aae1;
+  position: relative;
+  display: inline-block;
+}
+.hex:before {
+  content: " ";
+  width: 0;
+  height: 0;
+  border-bottom: 30px solid;
+  border-color: inherit;
+  border-left: 52px solid transparent;
+  border-right: 52px solid transparent;
+  position: absolute;
+  top: -30px;
+}
+.hex:after {
+  content: "";
+  width: 0;
+  position: absolute;
+  bottom: -30px;
+  border-top: 30px solid;
+  border-color: inherit;
+  border-left: 52px solid transparent;
+  border-right: 52px solid transparent;
+}*/
+
+
+/* Creating pseudo-class */
+/*.hexagon:before, .hexagon:after {
+   content: "";
+   border: inherit;
+   position: absolute;
+   top: -0.5vh;
+   left: -0.5vh;
+   background-color: dodgerblue;
+   border-radius: inherit;
+   height: 100%;
+   width: 100%;
+}*/
+/* Align them in such a way
+ that they form a hexagon */
+/*.hexagon:before {
+   transform: rotate(60deg);
+}
+.hexagon:after {
+   transform: rotate(-60deg);
+}*/
+
+/*.mainhexan i.las.la-hourglass-start.position-absolute {
+  left: 32.9%;
+  bottom: 4rem;
+}
+.mainhexan i.las.la-user.position-relative {
+  transform: rotate(-90deg);
+}
+.mainhexan i.las.la-tachometer-alt.position-absolute {
+  left: 19%;
+  bottom: 4.5rem;
+  transform: rotate(-90deg);
+}
+.mainhexan i.las.la-address-card.position-absolute {
+  left: 33.0%;
+  bottom: 17rem;
+}
+i.las.la-bell.position-absolute {
+  bottom: 17rem;
+  left: 32.0%;
+}
+.mainhexan i.las.la-file-invoice-dollar.position-absolute {
+  left: 32%;
+  bottom: 5rem;
+}
+.mainhexan i.las.la-user.position-relative {
+  bottom: -4.4rem;
+  left: -1.2rem;
+}*/
